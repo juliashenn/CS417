@@ -1,0 +1,5 @@
+C:/Users/theju/Desktop/CS417/MP0/.utmp/RelWithDebInfo/313e72yy/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/theju/Desktop/CS417/MP0/.utmp/RelWithDebInfo/313e72yy/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/theju/Desktop/CS417/MP0/.utmp/RelWithDebInfo/313e72yy/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/theju/Desktop/CS417/MP0/.utmp/RelWithDebInfo/313e72yy/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/theju/Desktop/CS417/MP0/.utmp/RelWithDebInfo/313e72yy/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
